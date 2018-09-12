@@ -19,7 +19,7 @@ POC of `API with jwt` more `Permission(bitwise)` middleware per route.
 
 Generate a valid token. Post `/auth` with fields ***email*** and ***password***
 ```sh
-http --verbose post http://localhost:3333/auth email=tzilli@inviron.com.br password=1233
+http --verbose post http://localhost:3333/auth email=thiago.zilli@gmail.com password=1233
 
 POST /auth HTTP/1.1
 Accept: application/json, */*
@@ -31,7 +31,7 @@ Host: localhost:3333
 User-Agent: HTTPie/0.9.9
 
 {
-    "email": "tzilli@inviron.com.br", 
+    "email": "thiago.zilli@gmail.com", 
     "password": "1233"
 }
 ```
@@ -171,7 +171,7 @@ protected area. USER ID = 58aadf2ce3bdea2e00f9563b
 ```
 { 
     "_id" : ObjectId("58aadf2ce3bdea2e00f9563b"), 
-    "email" : "tzilli@inviron.com.br", 
+    "email" : "thiago.zilli@gmail.com", 
     "password" : "$2a$10$gMmv6mFAxcJwqT1fef6Uj.KB.A.FL5DTnn2ytrKzcgHc/GXGIxKhe", 
     "admin" : true, 
     "created_at" : ISODate("2017-02-20T12:21:00.333+0000"), 
