@@ -1,0 +1,127 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "6e7jhI4l0mTdPE0glmTHuiT2NOo=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "1ed61965b9e594bf37539680d7f63eccd060314f",
+			"revisionTime": "2018-09-30T20:58:21Z"
+		},
+		{
+			"checksumSHA1": "blOHP3HPYU+IeV6yWCalQuuM+zE=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "s6RbQQsB4b/zT2KcjgpjAYeFm+g=",
+			"path": "github.com/go-chi/chi",
+			"revision": "235fa5d9ba51003bd4c40a69bb9e7c4d82a5ef39",
+			"revisionTime": "2018-09-11T21:14:25Z"
+		},
+		{
+			"checksumSHA1": "+meuNoIOFV+QBH/Ba8JnEK3VnC8=",
+			"path": "github.com/gosimple/slug",
+			"revision": "5a8a61f2d23aa140daaa615aeff3fc0e9060a711",
+			"revisionTime": "2018-09-14T18:33:41Z"
+		},
+		{
+			"checksumSHA1": "I+g5iffd0bNDiI8swxzsHiJxBz0=",
+			"path": "github.com/joho/godotenv",
+			"revision": "c0b86d615e06d6fa5f869364d68f774ba49a86e3",
+			"revisionTime": "2018-09-27T05:32:03Z"
+		},
+		{
+			"checksumSHA1": "cl9bdp4vvusDqC44P6NOtMK5tIU=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "b729f2633dfe35f4d1d8a32385f6685610ce1cb5",
+			"revisionTime": "2018-04-02T22:36:58Z"
+		},
+		{
+			"checksumSHA1": "80bvAj3vcoCC1WgEXTKMSp9kPiE=",
+			"path": "github.com/pressly/chi",
+			"revision": "235fa5d9ba51003bd4c40a69bb9e7c4d82a5ef39",
+			"revisionTime": "2018-09-11T21:14:25Z"
+		},
+		{
+			"checksumSHA1": "VzsXeyK7dWRHLh72sTFFyFc3QoE=",
+			"path": "github.com/pressly/chi/middleware",
+			"revision": "235fa5d9ba51003bd4c40a69bb9e7c4d82a5ef39",
+			"revisionTime": "2018-09-11T21:14:25Z"
+		},
+		{
+			"checksumSHA1": "pvg8L4xN+zO9HLJislpVeHPPLjM=",
+			"path": "github.com/rainycape/unidecode",
+			"revision": "cb7f23ec59bec0d61b19c56cd88cee3d0cc1870c",
+			"revisionTime": "2015-09-07T02:38:54Z"
+		},
+		{
+			"checksumSHA1": "dTSETLqmJ1OXyuy7kOfwg71w4fQ=",
+			"path": "github.com/rs/cors",
+			"revision": "9a47f48565a795472d43519dd49aac781f3034fb",
+			"revisionTime": "2018-10-01T16:49:45Z"
+		},
+		{
+			"checksumSHA1": "cfWqNEVqrlTckIp6feLbp9bwUbM=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "1ed61965b9e594bf37539680d7f63eccd060314f",
+			"revisionTime": "2018-09-30T20:58:21Z"
+		},
+		{
+			"checksumSHA1": "2vIP24RMY4O7/Y2MV86HS6MGOak=",
+			"path": "github.com/weekface/mgorus",
+			"revision": "c06c1dd50c83323806de67024c55a063820c3b87",
+			"revisionTime": "2018-06-27T09:45:31Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "e3636079e1a4c1f337f212cc5cd2aca108f6c900",
+			"revisionTime": "2018-09-26T22:24:25Z"
+		},
+		{
+			"checksumSHA1": "tuZcEBCsll0etdqJEVMPwPuIPkc=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "8469e314837c2e2471561de5c47bbf8bfd0d9099",
+			"revisionTime": "2018-10-04T11:51:19Z"
+		},
+		{
+			"checksumSHA1": "Y7nctMxT58lRM78VtElPerhcnEs=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "8469e314837c2e2471561de5c47bbf8bfd0d9099",
+			"revisionTime": "2018-10-04T11:51:19Z"
+		},
+		{
+			"checksumSHA1": "bS5Kp6YjeXz4nvvS55CqIBP+HzM=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "/xRHTpN8WOK4nmZjJ1f96ER1b/o=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "XQsrqoNT1U0KzLxOFcAZVvqhLfk=",
+			"path": "gopkg.in/mgo.v2/internal/json",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "LEvMCnprte47qdAxWvQ/zRxVF1U=",
+			"path": "gopkg.in/mgo.v2/internal/sasl",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		},
+		{
+			"checksumSHA1": "+1WDRPaOphSCmRMxVPIPBV4aubc=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5",
+			"revisionTime": "2018-07-05T11:36:04Z"
+		}
+	],
+	"rootPath": "github.com/thiagozs/api-golang-jwt"
+}

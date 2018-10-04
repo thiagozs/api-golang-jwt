@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	model "../models"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
 	mgo "gopkg.in/mgo.v2"
 )
 

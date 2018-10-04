@@ -6,7 +6,7 @@ import (
 	"github.com/pressly/chi"
 	"github.com/rs/cors"
 
-	db "../dbs"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
 )
 
 //Router main rules of routes

@@ -5,9 +5,9 @@ import (
 	"github.com/pressly/chi/middleware"
 	"github.com/rs/cors"
 
-	controller "../controllers"
-	db "../dbs"
-	mid "../middlewares"
+	controller "github.com/thiagozs/api-golang-jwt/api/controllers"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	mid "github.com/thiagozs/api-golang-jwt/api/middlewares"
 )
 
 //Public Routes

@@ -10,9 +10,9 @@ import (
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	db "../dbs"
-	model "../models"
-	lib "../shared"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
+	lib "github.com/thiagozs/api-golang-jwt/api/shared"
 )
 
 //GetUser get a user by Id

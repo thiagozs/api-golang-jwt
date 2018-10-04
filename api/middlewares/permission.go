@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	model "../models"
-	service "../services"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
+	service "github.com/thiagozs/api-golang-jwt/api/services"
 )
 
 //Flags for biwise

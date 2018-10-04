@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	model "../models"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
 )
 
 //Admin GET teste
