@@ -9,9 +9,9 @@ import (
 
 	"log"
 
-	db "./dbs"
-	route "./routes"
-	lib "./shared"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	route "github.com/thiagozs/api-golang-jwt/api/routes"
+	lib "github.com/thiagozs/api-golang-jwt/api/shared"
 )
 
 func init() {

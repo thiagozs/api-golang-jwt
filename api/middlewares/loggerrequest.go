@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 
-	db "../dbs"
-	model "../models"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
 )
 
 var logger *logrus.Logger

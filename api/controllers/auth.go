@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	db "../dbs"
-	model "../models"
-	service "../services"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
+	service "github.com/thiagozs/api-golang-jwt/api/services"
 )
 
 //Home a home API

@@ -5,9 +5,9 @@ import (
 
 	"fmt"
 
-	db "../dbs"
-	model "../models"
-	lib "../shared"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
+	lib "github.com/thiagozs/api-golang-jwt/api/shared"
 )
 
 var session = db.StartMongoDB("Middleware / User Service").Session

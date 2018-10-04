@@ -10,8 +10,8 @@ import (
 	mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	db "../dbs"
-	model "../models"
+	db "github.com/thiagozs/api-golang-jwt/api/dbs"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
 )
 
 //GetPermission get a Permission by Id

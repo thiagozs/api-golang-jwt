@@ -8,8 +8,8 @@ import (
 
 	"github.com/pressly/chi"
 
-	model "../models"
-	service "../services"
+	model "github.com/thiagozs/api-golang-jwt/api/models"
+	service "github.com/thiagozs/api-golang-jwt/api/services"
 )
 
 // UserValidOnProject middleware for validate permission of user
